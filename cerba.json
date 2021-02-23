@@ -1,0 +1,881 @@
+{
+    "examen": "AC ANTI-ACIDE GLUTAMIQUE DECARBOXYLASE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Plasma, Sérum",
+    "technique": "Radioimmunoanalyse",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-ADN DENATURE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-ADN NATIF",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-AMPHIPHYSINE",
+    "sous type d'examen": "",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-ANNEXINE V (IgG)",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-ANTIGENES NUCLEAIRES SOLUBLES (ENA)",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "2 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-ANTIGENES NUCLEAIRES SOLUBLES (ENA)",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "2 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-ANTIGENES NUCLEAIRES SOLUBLES (ENA)",
+    "sous type d'examen": "IDENTIFICATION",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "2 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-ARN POLYMERASE III",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-BP180 (BPAG2) ET ANTI-BP230 (BPAG1)",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-C1Q",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CANAUX CALCIQUES VOLTAGE-DEPENDANTS (VGCC)",
+    "sous type d'examen": "",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Radioimmunoanalyse",
+    "volume minimale": "1 ml",
+    "fréquence": "",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CANAUX POTASSIQUES VOLTAGE-DEPENDANTS (VGKC)",
+    "sous type d'examen": "",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Radioimmunoanalyse",
+    "volume minimale": "1 ml",
+    "fréquence": "",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CANAUX SALIVAIRES",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CARDIOLIPINE",
+    "sous type d'examen": "IgG",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CARDIOLIPINE",
+    "sous type d'examen": "IgG",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CARDIOLIPINE",
+    "sous type d'examen": "IgM",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CELLULES PARIETALES DE L’ESTOMAC",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CENTROMERES",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CORTICOSURRENALES",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CV2",
+    "sous type d'examen": "",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CYTOPLASME DES POLYNUCLEAIRES NEUTROPHILES (ANCA)",
+    "sous type d'examen": "RECHERCHE",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CYTOPLASME DES POLYNUCLEAIRES NEUTROPHILES (ANCA)",
+    "sous type d'examen": "RECHERCHE",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CYTOPLASME DES POLYNUCLEAIRES NEUTROPHILES (ANCA)",
+    "sous type d'examen": "IDENTIFICATION (MPO - PR3)",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CYTOSOL (LC 1)",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CYTOSOL (LC 1)",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CYTOSOL (LC 1)",
+    "sous type d'examen": "TYPAGE ANTI-LC1",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-CYTOSQUELETTE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-DESMOGLEINE 1 ET ANTI-DESMOGLEINE 3",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-ENDOMYSIUM",
+    "sous type d'examen": "IgA",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-ENDOMYSIUM",
+    "sous type d'examen": "IgA",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-ENDOMYSIUM",
+    "sous type d'examen": "IgG",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-FACTEUR INTRINSEQUE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Chimiluminescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-FILAGGRINE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-GANGLIOSIDES (GM1, GM2, GD1A, GD1B, GQ1B)",
+    "sous type d'examen": "IgG et IgM",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-GLIADINE (peptides désaminés de la gliadine)",
+    "sous type d'examen": "IgA",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-GLIADINE (peptides désaminés de la gliadine)",
+    "sous type d'examen": "IgA",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-GLIADINE (peptides désaminés de la gliadine)",
+    "sous type d'examen": "IgG",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-β 2 GLYCOPROTEINE 1 (B2GP1)",
+    "sous type d'examen": "IgG",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-β 2 GLYCOPROTEINE 1 (B2GP1)",
+    "sous type d'examen": "IgG",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-β 2 GLYCOPROTEINE 1 (B2GP1)",
+    "sous type d'examen": "IgM",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-GP210",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-HEPARINE-FP4",
+    "sous type d'examen": "",
+    "type de prélèvement": "Plasma citraté",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-HISTONES",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-HU",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "3/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-HU",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "3/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-HU",
+    "sous type d'examen": "CONFIRMATION",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-21 HYDROXYLASE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Radioimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-IA2",
+    "sous type d'examen": "",
+    "type de prélèvement": "Plasma, Sérum",
+    "technique": "Radioimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-ILOTS DE LANGERHANS",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-INSULINE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Plasma, Sérum",
+    "technique": "Radioimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "2 j"
+}{
+    "examen": "AC ANTI-Ku",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-LKM",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-LKM",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-LKM",
+    "sous type d'examen": "TYPAGE ANTI-LKM1",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MA2",
+    "sous type d'examen": "",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MAG (IgM)",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MEMBRANE BASALE DERMO-EPIDERMIQUE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MEMBRANE BASALE GLOMERULAIRE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MITOCHONDRIES",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MITOCHONDRIES",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MITOCHONDRIES",
+    "sous type d'examen": "TYPAGE ANTI-M2",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MUSCLE LISSE",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MUSCLE LISSE",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MUSCLE LISSE",
+    "sous type d'examen": "TYPAGE SPECIFICITE ACTINE-F",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MUSCLE STRIE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MUSK",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Radioimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MYELINE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-MYOCARDE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-Hu, Ri, Yo",
+    "sous type d'examen": "",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "3/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-Hu, Ri, Yo",
+    "sous type d'examen": "",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "3/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-Hu, Ri, Yo",
+    "sous type d'examen": "PANEL COMPLET : AC ANTI-Hu, Ri, Yo, CV2, Ma2, AMPHIPHYSINE",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunofluorescence+ Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-NMO (anti-aquaporine-4)",
+    "sous type d'examen": "",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-NUCLEAIRES",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-NUCLEOSOME",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-OVAIRES",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-PCNA",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-PEAU",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-PEPTIDES CYCLIQUES CITRULLINES, CCP-2",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-PHOSPHATIDYL INOSITOL (IgG)",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-PHOSPHATIDYL SERINE (IgG)",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-PHOSPHOLIPIDES (IgG)",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-PLAQUETTES",
+    "sous type d'examen": "RECHERCHE D’AUTOANTICORPS DIRIGES CONTRE LES GP IIbIIIa, GP IbIX ET GP IaIIa",
+    "type de prélèvement": "Sang total EDTA",
+    "technique": "ModifiedAntigen-Capture ELISA",
+    "volume minimale": "15 ml",
+    "fréquence": "3/s",
+    "délai": "7 j"
+}{
+    "examen": "AC ANTI-PM/SCL",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-PROTHROMBINE (IgG)",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-RECEPTEUR NMDA (NMDAR)",
+    "sous type d'examen": "",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-RECEPTEURS DE LA THYREOSTIMULINE (TRAK)",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Radioimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-RECEPTEURS DE L’ACETYLCHOLINE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Radioimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-RETICULINE (IgA)",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-RI",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "3/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-RI",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "3/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-RI",
+    "sous type d'examen": "CONFIRMATION",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-RIBOSOMES",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-SACCHAROMYCES CEREVISIAE (IgG + IgA)",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-SLA",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-SP100",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-SSA/Ro",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-SUBSTANCE INTERCELLULAIRE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-TESTICULES",
+    "sous type d'examen": "",
+    "type de prélèvement": "Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-THYROGLOBULINE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Plasma, Sérum",
+    "technique": "Chimiluminescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-THYROGLOBULINE + AC ANTI-TPO",
+    "sous type d'examen": "",
+    "type de prélèvement": "Plasma, Sérum",
+    "technique": "Chimiluminescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-THYROPEROXYDASE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Plasma, Sérum",
+    "technique": "Chimiluminescence",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-THYROXINE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Plasma, Sérum",
+    "technique": "Radioimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-TRANSGLUTAMINASE TISSULAIRE",
+    "sous type d'examen": "IgA",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-TRANSGLUTAMINASE TISSULAIRE",
+    "sous type d'examen": "IgA",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-TRANSGLUTAMINASE TISSULAIRE",
+    "sous type d'examen": "IgG",
+    "type de prélèvement": "Sérum",
+    "technique": "Enzymoimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "5/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-TRI-IODOTHYRONINE",
+    "sous type d'examen": "",
+    "type de prélèvement": "Plasma, Sérum",
+    "technique": "Radioimmuno-analyse",
+    "volume minimale": "1 ml",
+    "fréquence": "1/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-YO",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "3/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-YO",
+    "sous type d'examen": "DEPISTAGE",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunofluorescence",
+    "volume minimale": "1 ml",
+    "fréquence": "3/s",
+    "délai": "1 j"
+}{
+    "examen": "AC ANTI-YO",
+    "sous type d'examen": "CONFIRMATION",
+    "type de prélèvement": "LCR, Sérum",
+    "technique": "Immunodot",
+    "volume minimale": "1 ml",
+    "fréquence": "2/s",
+    "délai": "1 j"
+}

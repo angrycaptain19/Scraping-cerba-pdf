@@ -1,0 +1,869 @@
+﻿AC ANTI-ACIDE GLUTAMIQUE DECARBOXYLASE
+✓ Plasma, Sérum
+Radioimmunoanalyse
+1 ml
+2/s
+B120
+1 j
+7890
+AC ANTI-ADN DENATURE
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1458
+AC ANTI-ADN NATIF
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1455
+AC ANTI-AMPHIPHYSINE
+✓ LCR, Sérum
+Immunodot
+1 ml
+2/s
+90 e
+1 j
+AC ANTI-ANNEXINE V (IgG)
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+43 e
+1 j
+AC ANTI-ANTIGENES NUCLEAIRES SOLUBLES (ENA)
+DEPISTAGE
+✓ Sérum
+Enzymoimmuno-
+analyse
+2 ml
+5/s
+B40 + B40
+1 j
+1456
++ 1456
+SSA, SSB, SmD3, RNP, Jo1, Scl70, centromères.
+En cas de dépistage positif, l’identification sera réalisée.
+IDENTIFICATION
+✓ Sérum
+Enzymoimmuno-
+analyse
+2 ml
+5/s
+B70 + B70
+1 j
+1457
++ 1457
+Examen réalisé uniquement si dépistage positif.
+AC ANTI-ARN POLYMERASE III
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+1/m
+43 e
+1 j
+AC ANTI-BP180 (BPAG2) ET ANTI-BP230 (BPAG1)
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+2/m
+100 e
+1 j
+40
+ACA
+Voir la signification des pictogrammes page 36
+AC ANTI-C1Q
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+43 e
+1 j
+AC ANTI-CANAUX CALCIQUES VOLTAGE-DEPENDANTS (VGCC)
+✓ LCR, Sérum
+Radioimmunoanalyse
+1 ml
+1/m
+126 e
+1 j
+AC ANTI-CANAUX POTASSIQUES VOLTAGE-DEPENDANTS (VGKC)
+✓ LCR, Sérum
+Radioimmunoanalyse
+1 ml
+1/m
+126 e
+1 j
+AC ANTI-CANAUX SALIVAIRES
+✓ Sérum
+Immunofluorescence
+1 ml
+1/s
+B40
+1 j
+1498
+AC ANTI-CARDIOLIPINE
+IgG
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1460
+IgM
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1460
+AC ANTI-CELLULES PARIETALES DE L’ESTOMAC
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40
+1 j
+1490
+AC ANTI-CENTROMERES
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40
+1 j
+1453
+En cas de positivité (titre > ou égal à 160) une identification sera réalisée (anti-antigènes nucléaires solubles).
+AC ANTI-CORTICOSURRENALES
+✓ Sérum
+Immunofluorescence
+1 ml
+2/s
+B40
+1 j
+1489
+AC ANTI-CV2
+✓ LCR, Sérum
+Immunodot
+1 ml
+2/s
+90 e
+1 j
+41
+ACA
+Voir la signification des pictogrammes page 36
+AC ANTI-CYTOPLASME DES POLYNUCLEAIRES NEUTROPHILES (ANCA)
+RECHERCHE
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40
+1 j
+1462
+En cas de recherche positive au 1/20 et plus, l’identification anti-MPO et anti-PR3 sera réalisée.
+IDENTIFICATION (MPO - PR3)
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1463
+AC ANTI-CYTOSOL (LC 1)
+DEPISTAGE
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B80
+1 j
+1465
+En cas de dépistage positif au 1/40 et plus, la recherche de la spécificité anti-cytosol sera réalisée.
+TYPAGE ANTI-LC1
+✓ Sérum
+Immunodot
+1 ml
+2/s
+B40
+1 j
+1472
+Examen réalisé uniquement si dépistage positif.
+AC ANTI-CYTOSQUELETTE
+✓ Sérum
+Immunofluorescence
+1 ml
+1/s
+B40
+1 j
+1467
+AC ANTI-DESMOGLEINE 1 ET ANTI-DESMOGLEINE 3
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+2/m
+120 e
+1 j
+AC ANTI-ENDOMYSIUM
+IgA
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40
+1 j
+1830
+Chez l’enfant : cotation B40/1830. Chez l’adulte : cotation HN 40 e
+IgG
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40
+1 j
+1831
+42
+ACA
+Voir la signification des pictogrammes page 36
+AC ANTI-FACTEUR INTRINSEQUE
+✓ Sérum
+Chimiluminescence
+1 ml
+5/s
+B70
+1 j
+1491
+AC ANTI-FILAGGRINE
+✓ Sérum
+Immunofluorescence
+1 ml
+1/s
+43 e
+1 j
+AC ANTI-GANGLIOSIDES (GM1, GM2, GD1A, GD1B, GQ1B)
+IgG et IgM
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+1/s
+122 e
+1 j
+Pour toute demande d’anticorps anti-gangliosides, nous réalisons simultanément les anticorps anti-GM1, anti-GM2,
+anti-GD1a, anti-GD1b, anti-GQ1b.
+AC ANTI-GLIADINE (peptides désaminés de la gliadine)
+IgA
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+43 e
+1 j
+IgG
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+43 e
+1 j
+AC ANTI-β 2 GLYCOPROTEINE 1 (B2GP1)
+IgG
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1460
+IgM
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1460
+AC ANTI-GP210
+✓ Sérum
+Immunodot
+1 ml
+2/s
+B70
+1 j
+1473
+AC ANTI-HEPARINE-FP4
+✓ Plasma citraté
+Enzymoimmuno-
+analyse
+1 ml
+1/s
+B150
+1 j
+1024
+43
+ACA
+Voir la signification des pictogrammes page 36
+AC ANTI-HISTONES
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1459
+AC ANTI-HU
+DEPISTAGE
+✓ LCR, Sérum
+Immunofluorescence
+1 ml
+3/s
+B40
+1 j
+1498
+En cas de dépistage positif, une confirmation sera réalisée.
+CONFIRMATION
+✓ LCR, Sérum
+Immunodot
+1 ml
+2/s
+90 e
+1 j
+Examen réalisé en cas de dépistage positif en IFI.
+AC ANTI-21 HYDROXYLASE
+✓ Sérum
+Radioimmuno-
+analyse
+1 ml
+1/s
+64 e
+1 j
+AC ANTI-IA2
+✓ Plasma, Sérum
+Radioimmuno-
+analyse
+1 ml
+2/s
+B120
+1 j
+1800
+AC ANTI-ILOTS DE LANGERHANS
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40
+1 j
+1481
+AC ANTI-INSULINE
+✓ Plasma, Sérum
+Radioimmuno-
+analyse
+1 ml
+1/s
+B150
+2 j
+1482
+AC ANTI-Ku
+✓ Sérum
+Immunodot
+1 ml
+2/s
+65 e
+1 j
+AC ANTI-LKM
+DEPISTAGE
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B80
+1 j
+1465
+En cas de dépistage positif au 1/40 et plus, la recherche de la spécificité anti-LKM1 sera réalisée.
+44
+ACA
+Voir la signification des pictogrammes page 36
+TYPAGE ANTI-LKM1
+✓ Sérum
+Immunodot
+1 ml
+2/s
+B40
+1 j
+1472
+Examen réalisé uniquement si dépistage positif.
+AC ANTI-MA2
+✓ LCR, Sérum
+Immunodot
+1 ml
+2/s
+90 e
+1 j
+AC ANTI-MAG (IgM)
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+1/s
+77 e
+1 j
+AC ANTI-MEMBRANE BASALE DERMO-EPIDERMIQUE
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40
+1 j
+1493
+Ne pas confondre avec ac anti-membrane basale glomérulaire.
+AC ANTI-MEMBRANE BASALE GLOMERULAIRE
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1497
+Ne pas confondre avec ac anti-membrane basale dermo-épidermique.
+AC ANTI-MITOCHONDRIES
+DEPISTAGE
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40
+1 j
+1469
+En cas de dépistage positif au 1/80 et plus, la recherche de la spécificité anti-M2 sera réalisée.
+TYPAGE ANTI-M2
+✓ Sérum
+Immunodot
+1 ml
+2/s
+B180
+1 j
+1471
+Examen réalisé uniquement si dépistage positif.
+AC ANTI-MUSCLE LISSE
+DEPISTAGE
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40
+1 j
+1466
+En cas de fluorescence significative, la recherche de la spécificité anti-actine-F sera réalisée.
+45
+ACA
+Voir la signification des pictogrammes page 36
+TYPAGE SPECIFICITE ACTINE-F
+✓ Sérum
+Immunofluorescence
+1 ml
+1/s
+B40
+1 j
+1467
+Examen réalisé uniquement si dépistage positif.
+AC ANTI-MUSCLE STRIE
+✓ Sérum
+Immunofluorescence
+1 ml
+2/s
+B40
+1 j
+1498
+AC ANTI-MUSK
+✓ Sérum
+Radioimmuno-
+analyse
+1 ml
+1/s
+88 e
+1 j
+AC ANTI-MYELINE
+✓ Sérum
+Immunofluorescence
+1 ml
+2/s
+B40
+1 j
+1498
+AC ANTI-MYOCARDE
+✓ Sérum
+Immunofluorescence
+1 ml
+2/s
+B40
+1 j
+1498
+AC ANTI-NEURONAUX
+AC ANTI-Hu, Ri, Yo
+✓ LCR, Sérum
+Immunofluorescence
+1 ml
+3/s
+B40 + B40
++ B40
+1 j
+1498
++ 1498
++ 1498
+En cas de dépistage positif, une confirmation par immunodot sera réalisée.
+PANEL COMPLET : AC ANTI-Hu, Ri, Yo, CV2, Ma2, AMPHIPHYSINE
+✓ LCR, Sérum
+Immunofluorescence
++ Immunodot
+1 ml
+2/s
+B40 + B40
++ B40 + 90 e
+1 j
+1498
++ 1498
++ 1498
+En l’absence de précision sur la feuille de demande d’analyses : « ac anti-neuronaux : panel complet », seul le
+dosage des anticorps anti-Hu, Yo, Ri sera réalisé.
+AC ANTI-NMO (anti-aquaporine-4)
+✓ LCR, Sérum
+Immunofluorescence
+1 ml
+1/s
+75 e
+1 j
+46
+ACA
+Voir la signification des pictogrammes page 36
+AC ANTI-NUCLEAIRES
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40
+1 j
+1453
+En cas de positivité (titre > ou égal à 160) une identification sera réalisée (anti-ADN natif et anti-antigènes nucléaires
+solubles). Si vous ne souhaitez pas cette identification, précisez-le sur la feuille de demande d’analyses : « Ac
+anti-nucléaires, dépistage uniquement ».
+AC ANTI-NUCLEOSOME
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+43 e
+1 j
+AC ANTI-OVAIRES
+✓ Sérum
+Immunofluorescence
+1 ml
+2/s
+B40
+1 j
+1495
+AC ANTI-PCNA
+✓ Sérum
+Immunodot
+1 ml
+1/s
+B40
+1 j
+1456
+AC ANTI-PEAU
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40 + B40
+1 j
+1494
++ 1493
+AC ANTI-PEPTIDES CYCLIQUES CITRULLINES, CCP-2
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B60
+1 j
+1827
+AC ANTI-PHOSPHATIDYL INOSITOL (IgG)
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1460
+AC ANTI-PHOSPHATIDYL SERINE (IgG)
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1460
+AC ANTI-PHOSPHOLIPIDES (IgG)
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1460
+47
+ACA
+Voir la signification des pictogrammes page 36
+AC ANTI-PLAQUETTES
+RECHERCHE D’AUTOANTICORPS DIRIGES CONTRE LES GP IIbIIIa, GP IbIX ET GP IaIIa
+✓ Sang total EDTA
+Modified
+Antigen-Capture ELISA
+15 ml
+3/s
+B100
++ B100
++ B100
+7 j
+1479
++ 1479
++ 1479
+Éviter impérativement de prélever en fin de semaine ou la veille d’un jour férié. Acheminer dans un délai inférieur à
+48 h (délai préanalytique maximal avant analyse : 5 j). Dans le cadre de l’exploration d’une thrombopénie fœtale
+et/ou néonatale, prélever mère + père +/- enfant pour Ac antiplaquettes et typage plaquettaire (joindre l’attestation
+médicale de consultation et le consentement pour l’examen des caractéristiques génétiques).
+AC ANTI-PM/SCL
+✓ Sérum
+Immunodot
+1 ml
+2/s
+65 e
+1 j
+AC ANTI-PROTHROMBINE (IgG)
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+43 e
+1 j
+AC ANTI-RECEPTEUR NMDA (NMDAR)
+✓ LCR, Sérum
+Immunofluorescence
+1 ml
+1/s
+114 e
+1 j
+AC ANTI-RECEPTEURS DE LA THYREOSTIMULINE (TRAK)
+✓ Sérum
+Radioimmuno-
+analyse
+1 ml
+5/s
+B115
+1 j
+1488
+Cette technique ne permet pas le dosage des Ac bloquants.
+AC ANTI-RECEPTEURS DE L’ACETYLCHOLINE
+✓ Sérum
+Radioimmuno-
+analyse
+1 ml
+2/s
+B100
+1 j
+1492
+AC ANTI-RETICULINE (IgA)
+✓ Sérum
+Immunofluorescence
+1 ml
+1/s
+43 e
+1 j
+AC ANTI-RI
+DEPISTAGE
+✓ LCR, Sérum
+Immunofluorescence
+1 ml
+3/s
+B40
+1 j
+1498
+En cas de dépistage positif, une confirmation sera réalisée.
+48
+ACA
+Voir la signification des pictogrammes page 36
+CONFIRMATION
+✓ LCR, Sérum
+Immunodot
+1 ml
+2/s
+90 e
+1 j
+Examen réalisé en cas de dépistage positif en IFI.
+AC ANTI-RIBOSOMES
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40
+1 j
+1453
+AC ANTI-SACCHAROMYCES CEREVISIAE (IgG + IgA)
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+60 e
+1 j
+AC ANTI-SLA
+✓ Sérum
+Immunodot
+1 ml
+2/s
+65 e
+1 j
+AC ANTI-SP100
+✓ Sérum
+Immunodot
+1 ml
+2/s
+65 e
+1 j
+AC ANTI-SSA/Ro
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B70
+1 j
+1457
+AC ANTI-SUBSTANCE INTERCELLULAIRE
+✓ Sérum
+Immunofluorescence
+1 ml
+5/s
+B40
+1 j
+1494
+AC ANTI-TESTICULES
+✓ Sérum
+Immunofluorescence
+1 ml
+2/s
+B40
+1 j
+1495
+AC ANTI-THYROGLOBULINE
+✓ Plasma, Sérum
+Chimiluminescence
+1 ml
+5/s
+B65
+1 j
+1484
+49
+ACA
+Voir la signification des pictogrammes page 36
+AC ANTI-THYROIDIENS
+AC ANTI-THYROGLOBULINE + AC ANTI-TPO
+✓ Plasma, Sérum
+Chimiluminescence
+1 ml
+5/s
+B65 + B65
+1 j
+1487
++ 1484
+AC ANTI-THYROPEROXYDASE
+✓ Plasma, Sérum
+Chimiluminescence
+1 ml
+5/s
+B65
+1 j
+1487
+AC ANTI-THYROXINE
+✓ Plasma, Sérum
+Radioimmuno-
+analyse
+1 ml
+1/s
+53 e
+1 j
+AC ANTI-TRANSGLUTAMINASE TISSULAIRE
+IgA
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B60
+1 j
+1828
+IgG
+✓ Sérum
+Enzymoimmuno-
+analyse
+1 ml
+5/s
+B60
+1 j
+1829
+AC ANTI-TRI-IODOTHYRONINE
+✓ Plasma, Sérum
+Radioimmuno-
+analyse
+1 ml
+1/s
+53 e
+1 j
+AC ANTI-YO
+DEPISTAGE
+✓ LCR, Sérum
+Immunofluorescence
+1 ml
+3/s
+B40
+1 j
+1498
+En cas de dépistage positif, une confirmation sera réalisée.
+CONFIRMATION
+✓ LCR, Sérum
+Immunodot
+1 ml
+2/s
+90 e
+1 j
+Examen réalisé en cas de dépistage positif en IFI.
+50
+ACA
+Voir la signification des pictogrammes page 36
